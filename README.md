@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shiv-kumar-tomar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Structures and algorithms
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @shiv-kumar-tomar.
+- 👀 I’m a full stack developer.
+- 👀 Data Science enthusiast. 
+- 🌱 I’m currently working on sports website of HBTU Kanpur.
 - 📫 How to reach me kshiv199@gmail.com
 
 <!---
